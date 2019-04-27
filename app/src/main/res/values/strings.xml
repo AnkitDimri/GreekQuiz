@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Greek Quiz</string>
+    <string name="name">Name</string>
+    <string name="Instructions">There are 7 questions 1\-5 single correct, 6 and 7 multi correct. Answer all the questions and submit to get the scores. To play again press \'RESET\'.</string>
+
+    <string name="question1">Question 1</string>
+    <string name="Question_1">Who was Zeus\' mother?</string>
+    <string name="Question1_opt1">Hera</string>
+    <string name="Question1_opt2">Rhea</string>
+    <string name="Question1_opt3">Dione</string>
+    <string name="Question1_opt4">Athena</string>
+
+    <string name="question2">Question 2</string>
+    <string name="Question_2">Which demigod was the son of the Nereid Thetis and of Peleus?</string>
+    <string name="Question2_opt1">Heracles</string>
+    <string name="Question2_opt2">Perseus</string>
+    <string name="Question2_opt3">Theseus</string>
+    <string name="Question2_opt4">Achilles</string>
+
+    <string name="question3">Question 3</string>
+    <string name="Question_3">Which demigod killed Medusa?</string>
+    <string name="Question3_opt1">Heracles</string>
+    <string name="Question3_opt2">Perseus</string>
+    <string name="Question3_opt3">Jason</string>
+    <string name="Question3_opt4">Atlanta</string>
+
+    <string name="question4">Question 4</string>
+    <string name="Question_4">Who killed Ouranos?</string>
+    <string name="Question4_opt1">Kronos</string>
+    <string name="Question4_opt2">Atlas</string>
+    <string name="Question4_opt3">Prometheus</string>
+    <string name="Question4_opt4">Hyperion</string>
+
+    <string name="question5">Question 5</string>
+    <string name="Question_5">Who was punished by being chained to a rock and a eagle eating his liver everyday for eternity by Zeus?</string>
+    <string name="Question5_opt1">Hyperion</string>
+    <string name="Question5_opt2">Atlas</string>
+    <string name="Question5_opt3">Prometheus</string>
+    <string name="Question5_opt4">Oceanus</string>
+
+    <string name="question6">Question 6</string>
+    <string name="Question_6">Who three gods are brothers?</string>
+    <string name="Question6_opt1">Hades</string>
+    <string name="Question6_opt2">Zeus</string>
+    <string name="Question6_opt3">Ares</string>
+    <string name="Question6_opt4">Poseidon</string>
+
+    <string name="question7">Question 7</string>
+    <string name="Question_7">who is/are the child/children of Zeus and Leto?</string>
+    <string name="Question7_opt1">Apollo</string>
+    <string name="Question7_opt2">Artemis</string>
+    <string name="Question7_opt3">Ares</string>
+    <string name="Question7_opt4">Athena</string>
+
+    <string name="button1">reset</string>
+    <string name="button2">submit</string>
+
+</resources>
